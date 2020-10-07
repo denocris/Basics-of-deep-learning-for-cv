@@ -15,13 +15,12 @@ Senza una comprensione profonda si rimane in superficie. Tuttavia in superficie 
 
 * **Notebook 3:**  Addestramento completo di un modello avanzato con PyTorch. Teoria, Overfitting e Cross-Validation.
 
-### Bio e Contatti del Docente (Cristiano De Nobili [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/denocris.svg?style=social&label=Follow%20%40denocris)](https://twitter.com/denocris))
+### Bio e Contatti del Docente (Cristiano De Nobili [<img src="https://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" width="30">](https://twitter.com/denocris) )
 
 Prima una laurea in Fisica Teorica delle Particelle, poi un Ph.D. in Fisica Statistica (SISSA, Trieste) con una tesi sull'Entanglement, fenomeno importante anche in Quantum Computing. Da quattro anni mi trovo nell'avvincente mondo dell'intelligenza artificiale. Con un approccio sia tecnico che di ricerca mi occupo principalmente di Deep Learning. Ho iniziato questa avventura nell'ambito della Computer Vision (CV) tramite un progetto del CNR e un master in High-Performance Computing (MHPC, SISSA/ICTP). Poi da un paio di anni sono passato a lavorare sul linguaggio (NLP) oltre a dedicarmi a progetti con forte impatto sociale e ambientale (AI for Good). TEDx speaker, mi diverto anche nella divulgazione e soprattutto nell’insegnamento, a tutti i livelli. Pilota nel weekend, sono appassionato di volo, viaggi e fotografia.
 
 <p align="center">
   
-Contatti: [<img src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20140103174351%21Twitter_bird_logo.png" width="50">](https://twitter.com/denocris)   [<img src="https://m2socialweb.it/wp-content/uploads/2019/03/social-media-marketing_gestione-linkedin.png" width="40">](https://www.linkedin.com/in/cristiano-de-nobili/)   [<img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="50">](https://www.instagram.com/denocris/?hl=it)
+Contatti: [<img src="https://1.bp.blogspot.com/-Rwqcet_SHbk/T8_acMUmlmI/AAAAAAAAGgw/KD_fx__8Q4w/s1600/Twitter+bird.png" width="50">](https://twitter.com/denocris)   [<img src="https://m2socialweb.it/wp-content/uploads/2019/03/social-media-marketing_gestione-linkedin.png" width="40">](https://www.linkedin.com/in/cristiano-de-nobili/)   [<img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="50">](https://www.instagram.com/denocris/?hl=it)
 
 </p>
-
